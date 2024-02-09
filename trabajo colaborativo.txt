@@ -76,6 +76,13 @@ impactar en la equidad y la eficiencia del acceso a Internet.
 Preguntas de lectura: Capítulo 2
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.
+
+La estructura de una red se basa en dispositivos o medios, los cuales son aquellos elementos físicos. También se tiene servicios y procesos los cuales son aquellos que se ejecutan en un dispositivo de la red. Dentro de los dispositivos se tiene:
+Dispositivos finales: es por donde interactúan las personas 
+Dispositivos medios: se encargan de que fluyan los datos por medio de la red 
+En cuanto a los medios se tiene que es por donde fluyen los datos, se podría decir que son los conectores que pueden ser hilos, fibra óptica o inalámbricos
+
+
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?

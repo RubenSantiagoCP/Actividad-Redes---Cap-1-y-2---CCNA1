@@ -10,6 +10,12 @@ e.	Ver noticias
 2. Describir los factores que afectan la calidad de las comunicaciones.
 3. Identificar los componentes clave de cualquier red de datos y describir su
 funcionamiento.
+
+Reglas: son aquellas que rigen el comportamiento del transporte de los mensajes
+Medio: es el medio de conexión o transporte por el cual se pretende enviar los mensajes 
+Mensajes: información que se pretende transmitir de un emisor a un receptor
+Dispositivos: aquellos que permiten generar una comunicación, por lo cual debe haber un dispositivo emisor y otro receptor
+
 4. Responda con sus propias palabras:
 A. ¿Qué son los datos?
 B. ¿Qué es una red de datos?

@@ -46,6 +46,8 @@ datos a través de Internet.
 infraestructura digital global y cómo su gestión y regulación pueden
 impactar en la equidad y la eficiencia del acceso a Internet.
 
+Los proveedores de internet tienen un papel crucial al permitirnos poder acceder a una gran cantidad de servicios, comunicarnos y compartir información a largas distancias y participar de la economía global. Es importante que haya una gestión y regulación para que todo el que quiera utilizar estos servicios pueda acceder a ellos. Para ello, es necesario expandir la infraestructura de la red y así, poder llegar a áreas rurales o económicamente desfavorecidas. Además, la regulación de los precios permite tarifas asequibles para todos. En términos de eficiencia del servicio, la regulación permite establecer estándares de calidad del servicio y de esta manera, garantizar que los proveedores ofrezcan conexiones rápidas y confiables. 
+
 Preguntas de lectura: Capítulo 2
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.

@@ -15,7 +15,13 @@ A. Tolerante a fallas,
 B. Escalabilidad,
 C. Calidad del servicio
 D. Seguridad. Mostrar sus respectivos ejemplos.
+
 6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+-	Redes orientadas a la conexión: Se establece una conexión lógica entre los dispositivos antes de que puedan conectarse entre sí. 
+-	Redes no orientadas a conexión: Los dispositivos pueden enviar y recibir datos sin necesidad de establecer una conexión previa. 
+
+
 7. Describa que es la calidad del servicio y que se necesita para mantener una
 buena calidad de servicio para las aplicaciones que lo requieren.
 8. ¿Por qué importa la calidad del servicio en una red de datos?

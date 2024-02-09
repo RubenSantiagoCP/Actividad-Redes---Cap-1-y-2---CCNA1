@@ -86,6 +86,9 @@ En cuanto a los medios se tiene que es por donde fluyen los datos, se podría de
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+La diferencia está en que interwork es la unión de dos o más redes e internet mientras que internet va más allá y a pesar de ser un internetwork es específicamente el que usa el protocolo TCP/IP
+
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?

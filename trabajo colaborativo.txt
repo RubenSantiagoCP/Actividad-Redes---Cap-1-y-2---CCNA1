@@ -100,6 +100,21 @@ Es independiente debido a que los protocolo dan pautas que dicen que debe hacers
 7. Explicar la función de los protocolos en las comunicaciones de redes y para
 qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
 adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+Los protocolos son las reglas y los procedimientos que rigen la comunicación entre dispositivos de red. Los protocolos especifican los formatos, la temporización, la secuencia y el control de errores de los mensajes intercambiados entre los dispositivos. El proceso de encapsulamiento de los datos consiste en agregar información de control a los datos de cada capa del modelo TCP/IP. Esta información de control se denomina unidad de datos de protocolo (PDU).
+
 8. Describir la diferencia entre los modelos de protocolo y modelos de
 referencia.
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+Modelo TCP/IP toma como base el modelo OSI para implementarse. 
+OSI 
+Es de referencia, no se implementa si no que solo guia el proceso. Tiene 7 capas:
+    Aplicaicon: estan los datos
+    Presentación: descifrado o decodificación especial
+    Sesion: define tareas como por ejemplo cuando se debe cerrar una conexión
+    Network: permite enrutar los mensajes
+    Data link: permite acceder a la red 
+    Física: cables y demás
+MODELO TPC
+    Aplicación: comprende las 3 ultimas capas del modelo OSI.
+    Capa de transporte y red lo mismo que el OSI
+    Acceso de red: las primeras dos capas de modelo OSI

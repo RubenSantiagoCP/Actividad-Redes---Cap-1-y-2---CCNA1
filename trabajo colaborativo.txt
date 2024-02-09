@@ -25,6 +25,9 @@ D. Seguridad. Mostrar sus respectivos ejemplos.
 7. Describa que es la calidad del servicio y que se necesita para mantener una
 buena calidad de servicio para las aplicaciones que lo requieren.
 8. ¿Por qué importa la calidad del servicio en una red de datos?
+
+Es importante para tener una buena experiencia de usuario, haciendo que el servicio sea satisfactorio. Además, es vital para aplicaciones críticas que dependen de estas comunicaciones en tiempo real, como es el caso de un hospital o un centro de emergencias, lugares en los cuales, las consecuencias de algún fallo en la red pueden ser enormes. 
+
 9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y
 Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,alcance y relaciones comerciales. 
 10. Identifica al menos tres proveedores de Internet de nivel mundial y

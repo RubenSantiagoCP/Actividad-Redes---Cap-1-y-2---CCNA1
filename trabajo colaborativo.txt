@@ -53,6 +53,13 @@ Preguntas de lectura: Capítulo 2
 servicios necesarios para lograr comunicaciones exitosas.
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
+
+-	Red: Infraestructura que permite la comunicación entre dispositivos mediante una serie de protocolos, medios y servicios. 
+-	LAN: Es un tipo de red, que conecta a los dispositivos dentro de un área geográfica limitada. Es administrada por una única organización. Red de área local. 
+-	WAN: Red de área amplia, que conecta las LAN en ubicaciones separadas geográficamente. Para esto, pueden utilizar un proveedor de servicio de telecomunicaciones. 
+-	INTERNETWORK: Malla global de redes interconectadas que pertenecen a grandes organizaciones públicas o privadas. Es una red de redes, que se forma al interconectar varias redes. 
+-	INTERNET: Es la internetwork más conocida y utilizada. El internet se crea por la interconexión de redes que pertenecen a los Proveedores de servicios de Internet ISP.
+
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.

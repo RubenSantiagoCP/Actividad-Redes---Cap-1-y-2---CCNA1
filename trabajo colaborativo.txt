@@ -22,10 +22,22 @@ B. ¿Qué es una red de datos?
 C. ¿Qué entiende por arquitectura de red?
 D. ¿Qué es una red convergente?
 5. Describir las características de las arquitecturas de red
-A. Tolerante a fallas,
-B. Escalabilidad,
-C. Calidad del servicio
-D. Seguridad. Mostrar sus respectivos ejemplos.
+A.	Tolerante a fallas: se trata de tener un modelo de red que me permita que este deje de funcionar en caso de una falla, esto se logra por medio de rutas redundantes que permiten que el sistema se recupere de manera rápida
+
+Ejemplo: puede verse en los sistemas de transacciones bancarias donde una falla de estas puede provocar la perdida de dinero, por lo cual se deben tener un remplazo en caso de que haya una falla en los servicios 
+
+B.	Escalabilidad: se trata de que sea fácil añadir nuevos usuarios a una red sin que se afecte el rendimiento de la misma 
+
+Ejemplo: se puede hablar de una empresa que crece constantemente en la cual para los nuevos empleados se requiere una conexión que sin importar la cantidad de estos, la funcionalidad de la red sea buena 
+
+C.	Calidad del servicio: se trata de que el mensaje enviado por el emisor durante el transporte al receptor se mantenga lo mejor posible sin que haya distorsiones que afecten lo que se quería transmitir con el mensaje inicialmente
+
+Ejemplo: puede verse como en una red a un contenido por transmitir se le da mas prioridad a que a otro, por ejemplo si en un negocio es fundamental atender llamadas se puede priorizar ese servicio sobre otros.
+
+D.	Seguridad: se encarga de que la información que contiene el mensaje solo sea posible ser accedida por usuarios autorizados.
+
+Ejemplo: se puede hablar del firewall que permite regular las acciones que puedo realizar dentro de una red
+
 6. Investigar qué son las redes orientadas y no orientadas a la conexión.
 7. Describa que es la calidad del servicio y que se necesita para mantener una
 buena calidad de servicio para las aplicaciones que lo requieren.

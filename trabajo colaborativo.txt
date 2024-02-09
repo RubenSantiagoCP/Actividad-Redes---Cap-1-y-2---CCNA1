@@ -6,10 +6,10 @@ internet.
 3. Identificar los componentes clave de cualquier red de datos y describir su
 funcionamiento.
 4. Responda con sus propias palabras:
-A. ¿Qué son los datos?
-B. ¿Qué es una red de datos?
-C. ¿Qué entiende por arquitectura de red?
-D. ¿Qué es una red convergente?
+A. ¿Qué son los datos? Son representaciones cuantitativas o cualitativas de hechos o conceptos. 
+B. ¿Qué es una red de datos? Una red de datos es una infraestructura que permite la comunicación entre diferentes dispositivos mediante la transferencia de datos. 
+C. ¿Qué entiende por arquitectura de red? La arquitectura de red es el diseño o estructura que define cómo se intercomunican los componentes y cómo se comunica la información entre ellos. 
+D. ¿Qué es una red convergente? Una red que permite transmitir voz, video y texto a través de un mismo canal. 
 5. Describir las características de las arquitecturas de red
 A. Tolerante a fallas,
 B. Escalabilidad,

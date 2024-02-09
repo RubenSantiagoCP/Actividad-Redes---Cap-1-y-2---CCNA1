@@ -1,6 +1,12 @@
 Preguntas de lectura: Capítulo 1
 1. Listar al menos 5 actividades cotidianas que realiza usted utilizando
 internet.
+a.	Escuchar música
+b.	Ver tiktok
+c.	Chatear en whatsapp
+d.	Ver películas
+e.	Ver noticias 
+
 2. Describir los factores que afectan la calidad de las comunicaciones.
 3. Identificar los componentes clave de cualquier red de datos y describir su
 funcionamiento.

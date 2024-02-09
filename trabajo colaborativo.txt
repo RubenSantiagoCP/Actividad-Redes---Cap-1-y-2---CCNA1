@@ -8,6 +8,7 @@ d.	Ver películas
 e.	Ver noticias 
 
 2. Describir los factores que afectan la calidad de las comunicaciones.
+ La calidad de las comunicaciones se ve afectada por factores externos (complejidad de la red) y factores internos (naturaleza del mensaje)
 3. Identificar los componentes clave de cualquier red de datos y describir su
 funcionamiento.
 
@@ -17,11 +18,12 @@ Mensajes: información que se pretende transmitir de un emisor a un receptor
 Dispositivos: aquellos que permiten generar una comunicación, por lo cual debe haber un dispositivo emisor y otro receptor
 
 4. Responda con sus propias palabras:
-A. ¿Qué son los datos?
-B. ¿Qué es una red de datos?
-C. ¿Qué entiende por arquitectura de red?
-D. ¿Qué es una red convergente?
+A. ¿Qué son los datos? Son representaciones cuantitativas o cualitativas de hechos o conceptos. 
+B. ¿Qué es una red de datos? Una red de datos es una infraestructura que permite la comunicación entre diferentes dispositivos mediante la transferencia de datos. 
+C. ¿Qué entiende por arquitectura de red? La arquitectura de red es el diseño o estructura que define cómo se intercomunican los componentes y cómo se comunica la información entre ellos. 
+D. ¿Qué es una red convergente? Una red que permite transmitir voz, video y texto a través de un mismo canal. 
 5. Describir las características de las arquitecturas de red
+
 A.	Tolerante a fallas: se trata de tener un modelo de red que me permita que este deje de funcionar en caso de una falla, esto se logra por medio de rutas redundantes que permiten que el sistema se recupere de manera rápida
 
 Ejemplo: puede verse en los sistemas de transacciones bancarias donde una falla de estas puede provocar la perdida de dinero, por lo cual se deben tener un remplazo en caso de que haya una falla en los servicios 
@@ -38,13 +40,22 @@ D.	Seguridad: se encarga de que la información que contiene el mensaje solo sea
 
 Ejemplo: se puede hablar del firewall que permite regular las acciones que puedo realizar dentro de una red
 
+
 6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+-	Redes orientadas a la conexión: Se establece una conexión lógica entre los dispositivos antes de que puedan conectarse entre sí. 
+-	Redes no orientadas a conexión: Los dispositivos pueden enviar y recibir datos sin necesidad de establecer una conexión previa. 
+
+
 7. Describa que es la calidad del servicio y que se necesita para mantener una
 buena calidad de servicio para las aplicaciones que lo requieren.
 
 La calidad de servicio se refiere a la satisfacción que puede tener un receptor al recibir el mensaje del emisor, esto puede ser audio, video, etc. Para que haya una buena calidad de servicio se requiere que haya prioridades, por lo cual es vital detectar la importancia que se tienen cada aspecto dentro de un espacio que se desea estudiar (empresa, institución, etc.)
 
 8. ¿Por qué importa la calidad del servicio en una red de datos?
+
+Es importante para tener una buena experiencia de usuario, haciendo que el servicio sea satisfactorio. Además, es vital para aplicaciones críticas que dependen de estas comunicaciones en tiempo real, como es el caso de un hospital o un centro de emergencias, lugares en los cuales, las consecuencias de algún fallo en la red pueden ser enormes. 
+
 9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y
 Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,alcance y relaciones comerciales. 
 
@@ -60,6 +71,11 @@ Nivel 2:
 clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la
 jerarquía de la red. Identifica al menos 2 proveedores de internet en
 Colombia.
+
+-	Mundial: AT&T (Tier-1), GTT (Tier-1), Movistar (Tier-2)
+-	Colombia: Claro (Tier-2), Tigo (Tier-2)
+
+
 11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y
 Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de
 datos a través de Internet.
@@ -73,6 +89,8 @@ Importancia Nivel 2: a pesar de ser proveedores dependientes son fundamentales p
 infraestructura digital global y cómo su gestión y regulación pueden
 impactar en la equidad y la eficiencia del acceso a Internet.
 
+Los proveedores de internet tienen un papel crucial al permitirnos poder acceder a una gran cantidad de servicios, comunicarnos y compartir información a largas distancias y participar de la economía global. Es importante que haya una gestión y regulación para que todo el que quiera utilizar estos servicios pueda acceder a ellos. Para ello, es necesario expandir la infraestructura de la red y así, poder llegar a áreas rurales o económicamente desfavorecidas. Además, la regulación de los precios permite tarifas asequibles para todos. En términos de eficiencia del servicio, la regulación permite establecer estándares de calidad del servicio y de esta manera, garantizar que los proveedores ofrezcan conexiones rápidas y confiables. 
+
 Preguntas de lectura: Capítulo 2
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.
@@ -85,18 +103,34 @@ En cuanto a los medios se tiene que es por donde fluyen los datos, se podría de
 
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
+
+-	Red: Infraestructura que permite la comunicación entre dispositivos mediante una serie de protocolos, medios y servicios. 
+-	LAN: Es un tipo de red, que conecta a los dispositivos dentro de un área geográfica limitada. Es administrada por una única organización. Red de área local. 
+-	WAN: Red de área amplia, que conecta las LAN en ubicaciones separadas geográficamente. Para esto, pueden utilizar un proveedor de servicio de telecomunicaciones. 
+-	INTERNETWORK: Malla global de redes interconectadas que pertenecen a grandes organizaciones públicas o privadas. Es una red de redes, que se forma al interconectar varias redes. 
+-	INTERNET: Es la internetwork más conocida y utilizada. El internet se crea por la interconexión de redes que pertenecen a los Proveedores de servicios de Internet ISP.
+
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 
 La diferencia está en que interwork es la unión de dos o más redes e internet mientras que internet va más allá y a pesar de ser un internetwork es específicamente el que usa el protocolo TCP/IP
 
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
+
+- Tarjeta de interfaz de red (NIC): proporciona la conexión física con la red en un host.
+- Puerto físico: conector o toma en donde el medio se conecta con un host o dispositivo de red.
+- Interfaz: puertos especializados de un dispositivo que se conecta con redes individuales.
+
+
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
 Es independiente debido a que los protocolo dan pautas que dicen que debe hacerse, pero no como debe hacerse, por lo cual este protocolo puede usarse con diferentes tecnologías si se sigue las pautas dadas por el mismo
 
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
+
+Una Unidad de Datos del Protocolo es una estructura de datos utilizadas para encapsular los datos para su transmisión a través de una red. Es la forma que adopta una sección de datos en cualquier capa de los modelos. 
+
 7. Explicar la función de los protocolos en las comunicaciones de redes y para
 qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
 adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
@@ -104,6 +138,7 @@ Los protocolos son las reglas y los procedimientos que rigen la comunicación en
 
 8. Describir la diferencia entre los modelos de protocolo y modelos de
 referencia.
+
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 Modelo TCP/IP toma como base el modelo OSI para implementarse. 
 OSI 
@@ -118,3 +153,8 @@ MODELO TPC
     Aplicación: comprende las 3 ultimas capas del modelo OSI.
     Capa de transporte y red lo mismo que el OSI
     Acceso de red: las primeras dos capas de modelo OSI
+=======
+
+- Modelo de protocolo: coincide fielmente con la estructura de una suite de protocolo en particular. Representa toda la funcionalidad requerida para interconectar la red. 
+- Modelo de referencia: proporciona una referencia común para mantener consistencia. Asiste en la comprensión más clara de las funciones y los procesos involucrados. 
+

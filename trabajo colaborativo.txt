@@ -63,6 +63,12 @@ Colombia.
 11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y
 Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de
 datos a través de Internet.
+
+Importancia Nivel 1: ofrecen conexiones de manera global y al ser independientes no necesitan uso de intermediarios que a su vez otorga una conexión más confiable debido a que tienen un alto grado de autonomía. 
+
+Importancia Nivel 2: a pesar de ser proveedores dependientes son fundamentales para brindar acceso a nivel regional.
+
+
 12. Reflexiona sobre el papel crucial de los proveedores de Internet en la
 infraestructura digital global y cómo su gestión y regulación pueden
 impactar en la equidad y la eficiencia del acceso a Internet.

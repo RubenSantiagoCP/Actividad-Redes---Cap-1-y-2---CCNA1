@@ -2,6 +2,7 @@ Preguntas de lectura: Capítulo 1
 1. Listar al menos 5 actividades cotidianas que realiza usted utilizando
 internet.
 2. Describir los factores que afectan la calidad de las comunicaciones.
+ La calidad de las comunicaciones se ve afectada por factores externos (complejidad de la red) y factores internos (naturaleza del mensaje)
 3. Identificar los componentes clave de cualquier red de datos y describir su
 funcionamiento.
 4. Responda con sus propias palabras:

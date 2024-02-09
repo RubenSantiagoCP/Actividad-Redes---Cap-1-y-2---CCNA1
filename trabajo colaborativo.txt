@@ -92,6 +92,9 @@ La diferencia está en que interwork es la unión de dos o más redes e internet
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+
+Es independiente debido a que los protocolo dan pautas que dicen que debe hacerse, pero no como debe hacerse, por lo cual este protocolo puede usarse con diferentes tecnologías si se sigue las pautas dadas por el mismo
+
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
 7. Explicar la función de los protocolos en las comunicaciones de redes y para

@@ -47,6 +47,15 @@ La calidad de servicio se refiere a la satisfacción que puede tener un receptor
 8. ¿Por qué importa la calidad del servicio en una red de datos?
 9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y
 Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,alcance y relaciones comerciales. 
+
+Nivel 1:
+-Infraestructura extremadamente extensa y densa (cableado submarino, fibra óptica, etc.)
+-Tienen un alcance global y una gran capacidad de interconexión entre redes
+
+Nivel 2:
+-Infraestructura de red limitada. Redes regionales o nacionales
+-Tienen un alcance regional. Su alcance depende de igual manera de los proveedores nivel 1
+
 10. Identifica al menos tres proveedores de Internet de nivel mundial y
 clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la
 jerarquía de la red. Identifica al menos 2 proveedores de internet en

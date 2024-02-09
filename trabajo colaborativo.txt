@@ -41,6 +41,9 @@ Ejemplo: se puede hablar del firewall que permite regular las acciones que puedo
 6. Investigar qué son las redes orientadas y no orientadas a la conexión.
 7. Describa que es la calidad del servicio y que se necesita para mantener una
 buena calidad de servicio para las aplicaciones que lo requieren.
+
+La calidad de servicio se refiere a la satisfacción que puede tener un receptor al recibir el mensaje del emisor, esto puede ser audio, video, etc. Para que haya una buena calidad de servicio se requiere que haya prioridades, por lo cual es vital detectar la importancia que se tienen cada aspecto dentro de un espacio que se desea estudiar (empresa, institución, etc.)
+
 8. ¿Por qué importa la calidad del servicio en una red de datos?
 9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y
 Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,alcance y relaciones comerciales. 

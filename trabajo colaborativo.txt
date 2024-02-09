@@ -34,6 +34,11 @@ Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,alcance
 clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la
 jerarquía de la red. Identifica al menos 2 proveedores de internet en
 Colombia.
+
+-	Mundial: AT&T (Tier-1), GTT (Tier-1), Movistar (Tier-2)
+-	Colombia: Claro (Tier-2), Tigo (Tier-2)
+
+
 11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y
 Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de
 datos a través de Internet.
